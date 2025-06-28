@@ -1,0 +1,179 @@
+body {
+    background-color: #252a40;
+    font-family: Inter, sans-serif;
+}
+
+.button-login-github {
+    background-color: #414244; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 550px;
+    height: px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.button-login-discord {
+    background-color: #536089; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 550px;
+    height: px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.button-login-google {
+    background-color: #6b1c1c; /* Green */
+    border: none;
+    color: rgb(150, 150, 150);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 4px 2px;
+    cursor: not-allowed;
+    width: 550px;
+    height: px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.button-login-scratch {
+    background-color: #f7a028; /* Green */
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 550px;
+    height: px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.button-login-back {
+    background-color: #232221; /* Green */
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 550px;
+    height: px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.button-login-github:hover {
+    background-color: #232427; /* Darker shade on hover */
+    transition: background-color 0.3s ease;
+}
+
+.button-login-discord:hover {
+    background-color: #383f58; /* Darker shade on hover */
+    transition: background-color 0.3s ease;
+}
+
+.button-login-scratch:hover {
+    background-color: #805315; /* Darker shade on hover */
+    transition: background-color 0.3s ease;
+}
+
+.button-login-back:hover {
+    background-color: #101010; /* Darker shade on hover */
+    transition: background-color 0.3s ease;
+}
+
+.button-logo {
+    margin-right: 10px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh; /* Full viewport height */
+}
+
+.header {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.p-text {
+    text-align: center;
+    color: rgb(147, 147, 147);
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.button-link {
+    text-decoration: none;
+}
+
+.link {
+    color: #516ec4;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+    transition: text-decoration 0.3s ease;
+}
+
+.p-text-bottom {
+    text-align: center;
+    color: rgb(147, 147, 147);
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
