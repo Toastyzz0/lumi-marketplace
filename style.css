@@ -71,3 +71,33 @@ body {
     border: none;
     border-radius: 50px;
 }
+
+.hr-404 {
+    width: 360px;
+    height: 3px;
+    background-color: #4c567a;
+    border: none;
+    border-radius: 50px;
+}
+
+.header-2 {
+        color: white; 
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.p-text-2 {
+    color: #b0b0b0;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.link {
+    color: #516ec4;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+    transition: text-decoration 0.3s ease;
+}
